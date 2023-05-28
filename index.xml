@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Science portfolio on Juan Sebastian Quintero Botero</title>
-    <link>https://example.com/</link>
+    <link>https://juanenglish.github.io/juan_sebastian_portfolio/</link>
     <description>Recent content in Data Science portfolio on Juan Sebastian Quintero Botero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Apr 2023 10:58:08 -0400</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Apr 2023 10:58:08 -0400</lastBuildDate><atom:link href="https://juanenglish.github.io/juan_sebastian_portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project 1: Gym Member Attendance Prediction Model</title>
-      <link>https://example.com/post/project-1/</link>
+      <link>https://juanenglish.github.io/juan_sebastian_portfolio/post/project-1/</link>
       <pubDate>Sat, 15 Apr 2023 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/post/project-1/</guid>
+      <guid>https://juanenglish.github.io/juan_sebastian_portfolio/post/project-1/</guid>
       <description>• Created a model that evaluates whether or not a gym member will attend a class accordingly to their membership longevity.
 • Built with more than 1500 data entries to predict members&amp;rsquo; attendance.
 • Optimised Linear and Lasso to find the best model.
@@ -21,64 +21,64 @@ Link to DataCamp Repository</description>
     
     <item>
       <title>Project 6</title>
-      <link>https://example.com/post/project-6/</link>
+      <link>https://juanenglish.github.io/juan_sebastian_portfolio/post/project-6/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
-      <guid>https://example.com/post/project-6/</guid>
+      <guid>https://juanenglish.github.io/juan_sebastian_portfolio/post/project-6/</guid>
       <description>In progress</description>
     </item>
     
     <item>
       <title>Project 5</title>
-      <link>https://example.com/post/project-5/</link>
+      <link>https://juanenglish.github.io/juan_sebastian_portfolio/post/project-5/</link>
       <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
       
-      <guid>https://example.com/post/project-5/</guid>
+      <guid>https://juanenglish.github.io/juan_sebastian_portfolio/post/project-5/</guid>
       <description>In progress</description>
     </item>
     
     <item>
       <title>Project 4</title>
-      <link>https://example.com/post/project-4/</link>
+      <link>https://juanenglish.github.io/juan_sebastian_portfolio/post/project-4/</link>
       <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
       
-      <guid>https://example.com/post/project-4/</guid>
+      <guid>https://juanenglish.github.io/juan_sebastian_portfolio/post/project-4/</guid>
       <description>In progress</description>
     </item>
     
     <item>
       <title>Project 3</title>
-      <link>https://example.com/post/project-3/</link>
+      <link>https://juanenglish.github.io/juan_sebastian_portfolio/post/project-3/</link>
       <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
       
-      <guid>https://example.com/post/project-3/</guid>
+      <guid>https://juanenglish.github.io/juan_sebastian_portfolio/post/project-3/</guid>
       <description>In progress</description>
     </item>
     
     <item>
       <title>Project 2</title>
-      <link>https://example.com/post/project-2/</link>
+      <link>https://juanenglish.github.io/juan_sebastian_portfolio/post/project-2/</link>
       <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
       
-      <guid>https://example.com/post/project-2/</guid>
+      <guid>https://juanenglish.github.io/juan_sebastian_portfolio/post/project-2/</guid>
       <description>In progress</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://example.com/about/</link>
+      <link>https://juanenglish.github.io/juan_sebastian_portfolio/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/about/</guid>
+      <guid>https://juanenglish.github.io/juan_sebastian_portfolio/about/</guid>
       <description>Engineering and Data Analysis are my passions My name is Juan Sebastian Quintero Botero and I have been working in the warehousing and manufacturing industries in the last years. I have held industrial engineering positions from medium size company to organizations with more 1000 employees. I transitioned into data science from an industrial engineering background. When I started my data science career, I had to deal with a great amount of information.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://example.com/contact/</link>
+      <link>https://juanenglish.github.io/juan_sebastian_portfolio/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/contact/</guid>
+      <guid>https://juanenglish.github.io/juan_sebastian_portfolio/contact/</guid>
       <description>You can follow me on the next social medias
 Platform URL LinkedIn: https://www.linkedin.com/in/juan-sebastian-quintero-botero/ </description>
     </item>
